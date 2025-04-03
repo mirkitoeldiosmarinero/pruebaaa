@@ -1,4 +1,8 @@
 con 'touch primero.txt' creo el archivo; con 'echo .... primero.txt' escribo el txt(lo que estoy haciendo ahora) y con 'nano primero.txt' entro al archivo
 
 
+<<<<<<< HEAD
 lalala
+=======
+hola esto es una copia con un cambio masi
+>>>>>>> pepe
